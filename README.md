@@ -37,3 +37,12 @@ Using this exercise one can see/learn
 * Lists
 * Type conversion
 * Importing a module 
+
+## Password Generator
+This application asks user to say number of letters, numbers and 
+symbols and creates a random password.
+Using this exercise one can see/learn
+* Lists
+* Random number generation
+* for loops
+* Range
