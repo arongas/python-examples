@@ -46,3 +46,6 @@ Using this exercise one can see/learn
 * Random number generation
 * for loops
 * Range
+
+## Hangman
+Exercise where everything until current chapter are used 
