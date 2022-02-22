@@ -48,4 +48,11 @@ Using this exercise one can see/learn
 * Range
 
 ## Hangman
-Exercise where everything until current chapter are used 
+Exercise where everything until current chapter are used. 
+This application implements hangman game
+
+## Caesar encryption/decryption
+This application takes as input a message a shift number and a 
+direction = command to encrypt or decrypt and outputs an enctypted or decrypted text by shifting text characters.
+Using this exercise one can see/learn
+* Methods with input
