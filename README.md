@@ -56,3 +56,8 @@ This application takes as input a message a shift number and a
 direction = command to encrypt or decrypt and outputs an enctypted or decrypted text by shifting text characters.
 Using this exercise one can see/learn
 * Methods with input
+
+## Blind auction
+This application runs a blind auction and in the end prints the higher bidder.
+Using this exercise one can see/learn
+* How dictionaries work
